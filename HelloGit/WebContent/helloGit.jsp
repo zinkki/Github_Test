@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>hello GitHub~</h1>
+<h2>This is github Practice~</h2>
 </body>
 </html>
